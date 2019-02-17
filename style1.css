@@ -1,0 +1,11 @@
+.col-sm-4
+{
+	background-color: green;
+	height: 500px;
+	margin-top: 200px;
+}
+.col-sm-4 p
+{
+	color: black;
+	font-size: 20px;
+}
